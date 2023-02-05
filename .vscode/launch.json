@@ -1,0 +1,98 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch fib_optimized",
+            "request": "launch",
+            "mainClass": "Recursion.fib_optimized",
+            "projectName": "Java_4eab2da"
+        },
+        {
+            "type": "java",
+            "name": "Launch fib_unoptimized",
+            "request": "launch",
+            "mainClass": "Recursion.fib_unoptimized",
+            "projectName": "Java_4eab2da"
+        },
+        {
+            "type": "java",
+            "name": "Launch sum",
+            "request": "launch",
+            "mainClass": "Recursion.sum",
+            "projectName": "Java_4eab2da"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pattern",
+            "request": "launch",
+            "mainClass": "Pattern",
+            "projectName": "Java_4eab2da"
+        },
+        {
+            "type": "java",
+            "name": "Launch Base_Conversion",
+            "request": "launch",
+            "mainClass": "Recursion.Base_Conversion",
+            "projectName": "Java_4eab2da"
+        },
+        {
+            "type": "java",
+            "name": "Launch palindrome",
+            "request": "launch",
+            "mainClass": "Recursion.palindrome",
+            "projectName": "Java_4eab2da"
+        },
+        {
+            "type": "java",
+            "name": "Launch string_rev",
+            "request": "launch",
+            "mainClass": "Recursion.string_rev",
+            "projectName": "Java_4eab2da"
+        },
+        {
+            "type": "java",
+            "name": "Launch dLL",
+            "request": "launch",
+            "mainClass": "dLL",
+            "projectName": "Java_4eab2da"
+        },
+        {
+            "type": "java",
+            "name": "Launch ll",
+            "request": "launch",
+            "mainClass": "ll",
+            "projectName": "Java_4eab2da"
+        },
+        {
+            "type": "java",
+            "name": "Launch merge",
+            "request": "launch",
+            "mainClass": "merge",
+            "projectName": "Java_4eab2da"
+        },
+        {
+            "type": "java",
+            "name": "Launch reverse",
+            "request": "launch",
+            "mainClass": "reverse",
+            "projectName": "Java_4eab2da"
+        },
+        {
+            "type": "java",
+            "name": "Launch sum",
+            "request": "launch",
+            "mainClass": "sum",
+            "projectName": "Java_4eab2da"
+        }
+    ]
+}
