@@ -21,8 +21,9 @@ class ll {
     }
   }
 
+  
   // Add First
-
+  
   void addFirst(String s) {
     Node n = new Node(s);
     if (head == null) {

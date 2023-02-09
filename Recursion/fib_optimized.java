@@ -4,8 +4,8 @@ import java.util.*;
 public class fib_optimized {
     static HashMap<Long ,Long>map=new HashMap<>();
     public static void main(String args[]){
-         map.put((long)0,(long)1);
-         map.put((long)1,(long)1);
+        map.put((long)0,(long)1);
+        map.put((long)1,(long)1);
         System.out.println(fib(200));
     }
     public static long fib(long no) {

@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch back",
+            "request": "launch",
+            "mainClass": "back",
+            "projectName": "Java_4eab2da"
+        },
+        {
+            "type": "java",
+            "name": "Launch g",
+            "request": "launch",
+            "mainClass": "g",
+            "projectName": "Java_4eab2da"
+        },
+        {
+            "type": "java",
+            "name": "Launch rev",
+            "request": "launch",
+            "mainClass": "rev",
+            "projectName": "Java_4eab2da"
+        },
+        {
+            "type": "java",
             "name": "Launch fib_optimized",
             "request": "launch",
             "mainClass": "Recursion.fib_optimized",
