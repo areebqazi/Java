@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "insertion_sorting",
+            "request": "launch",
+            "mainClass": "sorting.insertion_sorting",
+            "projectName": "Java_4eab2da"
+        },
+        {
+            "type": "java",
+            "name": "Launch bubble_sort",
+            "request": "launch",
+            "mainClass": "sorting.bubble_sort",
+            "projectName": "Java_4eab2da"
+        },
+        {
+            "type": "java",
+            "name": "Launch selection_sort",
+            "request": "launch",
+            "mainClass": "sorting.selection_sort",
+            "projectName": "Java_4eab2da"
+        },
+        {
+            "type": "java",
+            "name": "Launch temp",
+            "request": "launch",
+            "mainClass": "temp",
+            "projectName": "Java_4eab2da"
+        },
+        {
+            "type": "java",
             "name": "Launch back",
             "request": "launch",
             "mainClass": "back",
