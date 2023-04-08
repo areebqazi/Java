@@ -6,6 +6,62 @@
     "configurations": [
         {
             "type": "java",
+            "name": "susbset",
+            "request": "launch",
+            "mainClass": "Recursion.susbset",
+            "projectName": "Java_4eab2da"
+        },
+        {
+            "type": "java",
+            "name": "subsequence",
+            "request": "launch",
+            "mainClass": "Recursion.subsequence",
+            "projectName": "Java_4eab2da"
+        },
+        {
+            "type": "java",
+            "name": "remove_a",
+            "request": "launch",
+            "mainClass": "Recursion.remove_a",
+            "projectName": "Java_4eab2da"
+        },
+        {
+            "type": "java",
+            "name": "binary_search",
+            "request": "launch",
+            "mainClass": "Recursion.binary_search",
+            "projectName": "Java_4eab2da"
+        },
+        {
+            "type": "java",
+            "name": "Rectangle",
+            "request": "launch",
+            "mainClass": "Rectangle",
+            "projectName": "Java_4eab2da"
+        },
+        {
+            "type": "java",
+            "name": "temp",
+            "request": "launch",
+            "mainClass": "sorting.temp",
+            "projectName": "Java_4eab2da"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "sorting.Main",
+            "projectName": "Java_4eab2da"
+        },
+        {
+            "type": "java",
+            "name": "merge_sort",
+            "request": "launch",
+            "mainClass": "sorting.merge_sort",
+            "projectName": "Java_4eab2da"
+        },
+        {
+            "type": "java",
             "name": "insertion_sorting",
             "request": "launch",
             "mainClass": "sorting.insertion_sorting",
