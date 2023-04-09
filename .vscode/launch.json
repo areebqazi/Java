@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "combination_sum3",
+            "request": "launch",
+            "mainClass": "Recursion.combination_sum3",
+            "projectName": "Java_4eab2da"
+        },
+        {
+            "type": "java",
+            "name": "subset1",
+            "request": "launch",
+            "mainClass": "Recursion.subset1",
+            "projectName": "Java_4eab2da"
+        },
+        {
+            "type": "java",
             "name": "susbset",
             "request": "launch",
             "mainClass": "Recursion.susbset",
