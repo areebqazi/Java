@@ -1,4 +1,3 @@
-package Recursion;
 import java.util.*;
 public class combination_sum3 {
     static List<List<Integer>>ans=new ArrayList<>();
